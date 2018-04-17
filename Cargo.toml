@@ -1,0 +1,18 @@
+[package]
+name = "exonum-test"
+version = "0.6.0"
+
+[dependencies]
+exonum = "0.7"
+clap = "2.30.0"
+tempdir = "0.3.5"
+env_logger = "0.5.3"
+log = "0.4.1"
+serde = "1.0.10"
+serde_derive = "1.0.10"
+lazy_static = "1.0.0"
+router = "0.6.0"
+iron = "0.6.0"
+bodyparser = "0.8.0"
+params = "0.8.0"
+serde_json = "1.0"
